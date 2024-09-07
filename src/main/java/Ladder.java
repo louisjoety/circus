@@ -9,3 +9,4 @@ public class Ladder extends Equipment {
         return purchasePrice / 2;
     }
 }
+
